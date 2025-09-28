@@ -22,7 +22,7 @@ Sistema de Notificação por E-mail -
 A funcionalidade de e-mail foi projetada para otimizar o tempo do gestor. O script percorre todas as linhas e armazena os dados dos clientes em situação de alerta (amarela ou vermelha). No final do processamento da planilha, ele envia um único e-mail contendo uma lista organizada de todas as licenças que exigem atenção imediata.
 
 Uso de Inteligência Artificial (IA) no Projeto -
-Em nome da transparência e do uso ético de recursos modernos, informamos que ferramentas de Inteligência Artificial (IA) foram utilizadas durante o desenvolvimento.
+Em nome da transparência e do uso ético de recursos modernos, informo que ferramentas de Inteligência Artificial (IA) foram utilizadas durante o desenvolvimento.
 
 O papel da IA foi estritamente auxiliar, sendo aplicada para otimização de trechos de código, sugestão de estruturas de dados (como a lógica de consolidação de e-mails) e, principalmente, na elaboração da documentação técnica e didática do projeto, incluindo este próprio README e o Diário de Bordo.
 
